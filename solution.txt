@@ -1,0 +1,1 @@
+The git stash apply command leaves the topmost stash on the stash list so that we can later use it, on the other hand, the git stash pop command removes or throw away the latest or the topmost stash.
